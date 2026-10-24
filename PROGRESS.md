@@ -8,4 +8,6 @@
 | 2026-10-24 | [2235 — Add Two Integers](solutions/2235-add-two-integers/Solution.java) | Completed independently; reviewed | Java compilation and 7 cases passed | Not yet confirmed |
 | 2026-10-24 | [1672 — Richest Customer Wealth](solutions/1672-richest-customer-wealth/Solution.java) | Completed independently; reviewed nested loops and row totals | Java compilation and 9 cases passed | Not yet confirmed |
 
+| 2026-10-24 | [1512 — Number of Good Pairs](solutions/1512-number-of-good-pairs/Solution.java) | Completed independently; reviewed pair enumeration | Java compilation and 9 cases passed | Not yet confirmed |
+
 Only record an accepted submission when the result is confirmed. Add future rows as practice begins.
