@@ -10,4 +10,6 @@
 | 2026-10-24 | [1512 — Number of Good Pairs](solutions/1512-number-of-good-pairs/Solution.java) | Completed independently; reviewed pair enumeration | Java compilation and 9 cases passed | Not yet confirmed |
 | 2026-10-24 | [344 — Reverse String](solutions/0344-reverse-string/Solution.java) | Solved with guided practice; two pointers and swapping | Java compilation and 8 cases passed | Accepted (learner-reported) |
 
+| 2026-10-25 | [125 — Valid Palindrome](solutions/0125-valid-palindrome/Solution.java) | Solved with guided practice; strings, character checks, and two pointers | Java compilation and 13 cases passed | Accepted (learner-reported) |
+
 Only record an accepted submission when the result is confirmed. Add future rows as practice begins.
