@@ -12,4 +12,6 @@
 | 2026-10-25 | [125 — Valid Palindrome](solutions/0125-valid-palindrome/Solution.java) | Solved with guided practice; strings, character checks, and two pointers | Java compilation and 13 cases passed | Accepted (learner-reported) |
 | 2026-10-25 | [242 — Valid Anagram](solutions/0242-valid-anagram/Solution.java) | Solved with guided practice; convert, sort, compare | Java compilation and 12 cases passed | Accepted (learner-reported) |
 
+| 2026-10-25 | [14 — Longest Common Prefix](solutions/0014-longest-common-prefix/Solution.java) | Solved with guided practice; nested loops, bounds, and substring | Java compilation and 13 cases passed | Accepted (learner-reported) |
+
 Only record an accepted submission when the result is confirmed. Add future rows as practice begins.
