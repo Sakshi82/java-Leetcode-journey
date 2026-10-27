@@ -15,7 +15,7 @@
 | 2026-10-25 | [2011 — Final Value of Variable After Performing Operations](solutions/2011-final-value-of-variable-after-performing-operations/Solution.java) | Solved with guided practice; character indexing and counters | Java compilation and 10 cases passed | Accepted (learner-reported) |
 | 2026-10-26 | [1470 — Shuffle the Array](solutions/1470-shuffle-the-array/Solution.java) | Solved with guided practice; interleaving and array indexes | Java compilation and 7 cases passed | Accepted (learner-reported) |
 | 2026-10-26 | [1920 — Build Array from Permutation](solutions/1920-build-array-from-permutation/Solution.java) | Solved with guided practice; indexes, values, and two-step lookup | Java compilation and 7 cases passed | Accepted (learner-reported) |
-
 | 2026-10-26 | [2114 — Maximum Number of Words Found in Sentences](solutions/2114-maximum-number-of-words-found-in-sentences/Solution.java) | Solved with guided practice; space counting and maximum | Java compilation and 10 cases passed | Accepted (learner-reported) |
+| 2026-10-27 | [1108 — Defanging an IP Address](solutions/1108-defanging-an-ip-address/Solution.java) | Solved with guided practice; literal string replacement | Java compilation and 6 cases passed | Accepted (learner-reported) |
 
 Only record an accepted submission when the result is confirmed. Add future rows as practice begins.
