@@ -17,7 +17,7 @@
 | 2026-10-26 | [1920 — Build Array from Permutation](solutions/1920-build-array-from-permutation/Solution.java) | Solved with guided practice; indexes, values, and two-step lookup | Java compilation and 7 cases passed | Accepted (learner-reported) |
 | 2026-10-26 | [2114 — Maximum Number of Words Found in Sentences](solutions/2114-maximum-number-of-words-found-in-sentences/Solution.java) | Solved with guided practice; space counting and maximum | Java compilation and 10 cases passed | Accepted (learner-reported) |
 | 2026-10-27 | [1108 — Defanging an IP Address](solutions/1108-defanging-an-ip-address/Solution.java) | Solved with guided practice; literal string replacement | Java compilation and 6 cases passed | Accepted (learner-reported) |
-
 | 2026-10-27 | [709 — To Lower Case](solutions/0709-to-lower-case/Solution.java) | Solved with guided practice; String method and return value | Java compilation and 9 cases passed | Accepted (learner-reported) |
+| 2026-10-27 | [771 — Jewels and Stones](solutions/0771-jewels-and-stones/Solution.java) | Solved with guided practice; indexOf, case sensitivity, and counting | Java compilation and 10 cases passed | Accepted (learner-reported) |
 
 Only record an accepted submission when the result is confirmed. Add future rows as practice begins.
