@@ -20,4 +20,6 @@
 | 2026-10-27 | [709 — To Lower Case](solutions/0709-to-lower-case/Solution.java) | Solved with guided practice; String method and return value | Java compilation and 9 cases passed | Accepted (learner-reported) |
 | 2026-10-27 | [771 — Jewels and Stones](solutions/0771-jewels-and-stones/Solution.java) | Solved with guided practice; indexOf, case sensitivity, and counting | Java compilation and 10 cases passed | Accepted (learner-reported) |
 
+| 2026-10-28 | [2942 — Find Words Containing Character](solutions/2942-find-words-containing-character/Solution.java) | Completed with provided solution; indexOf and ArrayList introduction | Java compilation and 9 cases passed | Accepted (learner-reported) |
+
 Only record an accepted submission when the result is confirmed. Add future rows as practice begins.
