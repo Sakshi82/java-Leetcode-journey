@@ -22,4 +22,6 @@
 | 2026-10-28 | [2942 — Find Words Containing Character](solutions/2942-find-words-containing-character/Solution.java) | Completed with provided solution; indexOf and ArrayList introduction | Java compilation and 9 cases passed | Accepted (learner-reported) |
 | 2026-10-29 | [1431 — Kids With the Greatest Number of Candies](solutions/1431-kids-with-the-greatest-number-of-candies/Solution.java) | Solved with guided practice; maximum, >=, and List<Boolean> | Java compilation and 9 cases passed | Accepted (learner-reported) |
 
+| 2026-11-21 | [1365 — How Many Numbers Are Smaller Than the Current Number](solutions/1365-how-many-numbers-are-smaller-than-current/Solution.java) | Solved with guidance; nested loops and strict comparison | Pending | Not yet reported |
+
 Only record an accepted submission when the result is confirmed. Add future rows as practice begins.
