@@ -24,4 +24,6 @@
 
 | 2026-11-21 | [1365 — How Many Numbers Are Smaller Than the Current Number](solutions/1365-how-many-numbers-are-smaller-than-current/Solution.java) | Solved with guidance; nested loops and strict comparison | Not run locally | Accepted (learner-reported) |
 
+| 2026-11-24 | [1486 — XOR Operation in an Array](solutions/1486-xor-operation-in-an-array/Solution.java) | Solved with guidance; loop and bitwise XOR | Not run locally | Accepted (learner-reported) |
+
 Only record an accepted submission when the result is confirmed. Add future rows as practice begins.
