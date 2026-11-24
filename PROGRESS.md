@@ -38,4 +38,6 @@
 
 | 2026-11-24 | [1816 — Truncate Sentence](solutions/1816-truncate-sentence/Solution.java) | Solved with guidance; split, copy range, and join | Not run locally | Accepted (learner-reported) |
 
+| 2026-11-24 | [1732 — Find the Highest Altitude](solutions/1732-find-the-highest-altitude/Solution.java) | Solved with guidance; running total and maximum | Not run locally | Accepted (learner-reported) |
+
 Only record an accepted submission when the result is confirmed. Add future rows as practice begins.
