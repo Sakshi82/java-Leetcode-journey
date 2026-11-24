@@ -32,4 +32,6 @@
 
 | 2026-11-24 | [1678 — Goal Parser Interpretation](solutions/1678-goal-parser-interpretation/Solution.java) | Solved with guidance; chained String.replace calls | Not run locally | Accepted (learner-reported) |
 
+| 2026-11-24 | [1523 — Count Odd Numbers in an Interval Range](solutions/1523-count-odd-numbers-in-an-interval-range/Solution.java) | Solved with guidance; integer division and interval counting | Not run locally | Accepted (learner-reported) |
+
 Only record an accepted submission when the result is confirmed. Add future rows as practice begins.
