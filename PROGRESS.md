@@ -26,4 +26,6 @@
 
 | 2026-11-24 | [1486 — XOR Operation in an Array](solutions/1486-xor-operation-in-an-array/Solution.java) | Solved with guidance; loop and bitwise XOR | Not run locally | Accepted (learner-reported) |
 
+| 2026-11-24 | [2037 — Minimum Number of Moves to Seat Everyone](solutions/2037-minimum-number-of-moves-to-seat-everyone/Solution.java) | Solved with guidance; sorting and absolute difference | Not run locally | Accepted (learner-reported) |
+
 Only record an accepted submission when the result is confirmed. Add future rows as practice begins.
