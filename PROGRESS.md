@@ -30,4 +30,6 @@
 
 | 2026-11-24 | [1528 — Shuffle String](solutions/1528-shuffle-string/Solution.java) | Solved with guidance; character arrays and destination indexes | Not run locally | Accepted (learner-reported) |
 
+| 2026-11-24 | [1678 — Goal Parser Interpretation](solutions/1678-goal-parser-interpretation/Solution.java) | Solved with guidance; chained String.replace calls | Not run locally | Accepted (learner-reported) |
+
 Only record an accepted submission when the result is confirmed. Add future rows as practice begins.
