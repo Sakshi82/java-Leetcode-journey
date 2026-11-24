@@ -34,4 +34,6 @@
 
 | 2026-11-24 | [1523 — Count Odd Numbers in an Interval Range](solutions/1523-count-odd-numbers-in-an-interval-range/Solution.java) | Solved with guidance; integer division and interval counting | Not run locally | Accepted (learner-reported) |
 
+| 2026-11-24 | [1281 — Subtract the Product and Sum of Digits of an Integer](solutions/1281-subtract-the-product-and-sum-of-digits-of-an-integer/Solution.java) | Solved with guidance; digit extraction and accumulators | Not run locally | Accepted (learner-reported) |
+
 Only record an accepted submission when the result is confirmed. Add future rows as practice begins.
