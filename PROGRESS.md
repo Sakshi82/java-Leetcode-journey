@@ -42,4 +42,6 @@
 
 | 2026-11-25 | [2574 — Left and Right Sum Differences](solutions/2574-left-and-right-sum-differences/Solution.java) | Solved with guidance; nested loops and side sums | Not run locally | Accepted (learner-reported) |
 
+| 2026-11-25 | [1313 — Decompress Run-Length Encoded List](solutions/1313-decompress-run-length-encoded-list/Solution.java) | Solved with guidance; frequency pairs and output arrays | Not run locally | Accepted (learner-reported) |
+
 Only record an accepted submission when the result is confirmed. Add future rows as practice begins.
