@@ -40,4 +40,6 @@
 
 | 2026-11-24 | [1732 — Find the Highest Altitude](solutions/1732-find-the-highest-altitude/Solution.java) | Solved with guidance; running total and maximum | Not run locally | Accepted (learner-reported) |
 
+| 2026-11-25 | [2574 — Left and Right Sum Differences](solutions/2574-left-and-right-sum-differences/Solution.java) | Solved with guidance; nested loops and side sums | Not run locally | Accepted (learner-reported) |
+
 Only record an accepted submission when the result is confirmed. Add future rows as practice begins.
