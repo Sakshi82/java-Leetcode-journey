@@ -44,4 +44,6 @@
 
 | 2026-11-25 | [1313 — Decompress Run-Length Encoded List](solutions/1313-decompress-run-length-encoded-list/Solution.java) | Solved with guidance; frequency pairs and output arrays | Not run locally | Accepted (learner-reported) |
 
+| 2026-11-26 | [2413 — Smallest Even Multiple](solutions/2413-smallest-even-multiple/Solution.java) | Solved with guidance; remainder and if/else | Not run locally | Accepted (learner-reported) |
+
 Only record an accepted submission when the result is confirmed. Add future rows as practice begins.
