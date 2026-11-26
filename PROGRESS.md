@@ -49,3 +49,4 @@
 | 2026-11-26 | [2520 — Count the Digits That Divide a Number](solutions/2520-count-the-digits-that-divide-a-number/Solution.java) | Solved with guidance; digit extraction and divisibility | Not run locally | Accepted (learner-reported) |
 
 Only record an accepted submission when the result is confirmed. Add future rows as practice begins.
+| 2026-11-27 | [2469 — Convert the Temperature](solutions/2469-convert-the-temperature/Solution.java) | Solved with guidance; arithmetic formulas and returning `double[]` | Not run locally | Accepted (learner-reported) |
