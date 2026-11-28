@@ -50,3 +50,4 @@
 
 Only record an accepted submission when the result is confirmed. Add future rows as practice begins.
 | 2026-11-27 | [2469 — Convert the Temperature](solutions/2469-convert-the-temperature/Solution.java) | Solved with guidance; arithmetic formulas and returning `double[]` | Not run locally | Accepted (learner-reported) |
+| 2026-11-28 | [2652 — Sum Multiples](solutions/2652-sum-multiples/Solution.java) | Solved with guidance; loop, divisibility checks, and running sum | Not run locally | Accepted (learner-reported) |
